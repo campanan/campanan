@@ -17,7 +17,7 @@ Formado em Engenharia Mecânica no ano de 2018, por não ter me identificado com
 
 - Obrigado pela visita! 
 - Atualmente projetos iniciais realizados para estudos durante minha pós graduação.
-- Mais utilizado: Java, PostgreSQL, Spring JPA, Spring Boot, Bootstrap, HTML5.
+- Mais utilizados: Java, PostgreSQL, Spring JPA, Spring Boot, Bootstrap, HTML5.
 
 
 

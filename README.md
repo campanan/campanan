@@ -6,7 +6,7 @@
 
 Formado em Engenharia Mecânica no ano de 2018, por não ter me identificado com a área de atuação, em 2020 resolvi correr atrás de um desejo antigo em trabalhar na área de programação. Comecei estudando um pouco do básico de algumas linguagens como PHP, HTML e ao me encontrar com a linguagem Java decidi iniciar uma pós-graduação para aprender mais a fundo sobre essa tecnologia.
 
-- Atualmente estou cursando Pós-graduação em Tecnologia Java na UTFPR.
+- Em 2021 completei a pós graduação em Tecnologia Java pela Universidade Tecnológica Federal do Paraná.
 - Em busca de uma oportunidade na área de Desenvolvedor Java Junior / Trainee.
 
 
